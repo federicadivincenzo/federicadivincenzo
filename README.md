@@ -13,7 +13,6 @@
 
 - 📝 I regularly write articles on **https://www.linkedin.com/in/federica-di-vincenzo/**
 
-- 📄 Know about my experiences **https://drive.google.com/file/d/1mDuMNm4NS9tM0FTWtHb14nsW2lx2ji32/view?usp=sharing**
 
 
 <div> <a href="https://www.linkedin.com/in/federica-di-vincenzo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
